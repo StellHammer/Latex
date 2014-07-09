@@ -1,0 +1,112 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.10.13)  10 JUL 2014 00:57
+entering extended mode
+**«адание1.tex
+(C:\Latex1\«адание1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+) ("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\generic\babel\russianb.ldf
+"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+
+Package babel Warning: No input encoding specified for Russian language on inpu
+t line 136.
+
+Package babel Info: Making " an active character on input line 199.
+))
+No file «адание1.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+("D:\универ\III курс\_Full_Tex\_Full_Tex\texmf\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 3.
+
+
+! LaTeX Error: \begin{flushright} on input line 7 ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \end{enumerate}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+{D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/pdftex/config/pdftex.map}]
+(C:\Latex1\«адание1.aux) ) 
+Here is how much of TeX's memory you used:
+ 986 strings out of 494019
+ 11457 string characters out of 3150490
+ 60825 words of memory out of 3000000
+ 4329 multiletter control sequences out of 15000+200000
+ 6376 words of font info for 18 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 24i,4n,24p,667b,125s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/fonts/e
+nc/dvips/cm-super/cm-super-t2a.enc}<D:/универ/III курс/_Full_Tex/_Full_Tex/texm
+f/fonts/type1/public/cm-super/sfbx1095.pfb><D:/универ/III курс/_Full_Tex/_Full_
+Tex/texmf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on «адание1.pdf (1 page, 34816 bytes).
+PDF statistics:
+ 15 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
