@@ -7,14 +7,15 @@ Input:5:D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/tex/latex/00miktex/bblopts.
 Input:6:D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/tex/generic/babel/russianb.ldf
 Input:7:D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/tex/generic/babel/babel.def
 Input:8:D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/tex/latex/cyrillic/t2aenc.def
-Input:9:D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/tex/latex/cyrillic/t2acmr.fd
+Input:9:C:/Latex1/Задание1.aux
+Input:10:D:/универ/III курс/_Full_Tex/_Full_Tex/texmf/tex/latex/cyrillic/t2acmr.fd
 Output:pdf
 Magnification:1000
 Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!771
+!803
 {1
 [1,10:4736286,45984660:27131904,41248374,0
 [1,10:8275230,45984660:23592960,39872118,0
@@ -311,7 +312,7 @@ k1,10:31868190,45984660:11618093
 ]
 !6852
 }1
-Input:10:C:/Latex1/Задание1.aux
+Input:11:C:/Latex1/Задание1.aux
 !41
 Postamble:
 Count:167
